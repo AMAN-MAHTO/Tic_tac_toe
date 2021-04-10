@@ -1,0 +1,17 @@
+QPushButton{
+    color: white;
+    border: none;
+    background-color:  cornflowerblue !important;
+    
+}
+
+QPushButton:hover{
+	background-color:rgb(102, 255, 153);
+}
+
+/* QPushButton#reset_button{
+    background-color:rgb(102, 255, 153);
+}
+QPushButton#reset_button:hover{
+	background-color: cornflowerblue; */
+}
